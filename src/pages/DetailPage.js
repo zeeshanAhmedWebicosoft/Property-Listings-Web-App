@@ -18,7 +18,7 @@ const DetailPage = () => {
          >
             Back
          </Link>
-         <div className="row">
+         <div className="row pb-5">
             <div className="col-md-6 mx-auto">
                <div className="card ">
                   <div className="card-body">
